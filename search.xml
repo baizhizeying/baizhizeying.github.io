@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>你好~</title>
-    <url>/2023/11/04/%E4%BD%A0%E5%A5%BD/</url>
-    <content><![CDATA[<p>欢迎来到我的博客</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;欢迎来到我的博客&quot;</span>)</span><br></pre></td></tr></table></figure>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;欢迎来到我的博客&quot;</span>)</span><br></pre></td></tr></table></figure>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">cout &lt;&lt; <span class="string">&quot;欢迎来到我的博客&quot;</span>;</span><br></pre></td></tr></table></figure>]]></content>
+    <title>python语法</title>
+    <url>/2023/11/05/python%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<span id="more"></span>
+<h3 id="python数据类型"><a href="#python数据类型" class="headerlink" title="python数据类型"></a>python数据类型</h3><p>string 字符串<br>int 整数<br>float 浮点数<br>bool 浮点数</p>
+<h3 id="存储结构"><a href="#存储结构" class="headerlink" title="存储结构"></a>存储结构</h3><p>dictionary 字典（键值对用{}表示）<br>list 列表（有序存储，下标读取用[]表示）<br>tuple 元组（类似于列表，<strong>区别在于不可改变</strong>）<br>queue 队列(先进先出)<br>stack 栈（后进后出）</p>
+<h3 id="循环"><a href="#循环" class="headerlink" title="循环"></a>循环</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> :</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b,c):</span><br></pre></td></tr></table></figure>
+<p>a表起始值<br>b表终止值<br>c表递增值<br><em>！注意</em><br>运行次数为 (b - a - 1) &#x2F; c<br><del>未完待续</del></p>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
       <tags>
-        <tag>公告</tag>
+        <tag>python</tag>
       </tags>
   </entry>
   <entry>
@@ -35,6 +40,17 @@
       </categories>
       <tags>
         <tag>c++算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你好~</title>
+    <url>/2023/11/04/%E4%BD%A0%E5%A5%BD/</url>
+    <content><![CDATA[<p>欢迎来到我的博客</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;欢迎来到我的博客&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;欢迎来到我的博客&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">cout &lt;&lt; <span class="string">&quot;欢迎来到我的博客&quot;</span>;</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>公告</tag>
       </tags>
   </entry>
 </search>
