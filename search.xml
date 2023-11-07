@@ -64,4 +64,26 @@
         <tag>公告</tag>
       </tags>
   </entry>
+  <entry>
+    <title>hexo+github+git的使用</title>
+    <url>/2023/11/07/hexo-github-git%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<p>参考文章: <a href="https://blog.csdn.net/Principal_Z/article/details/130857852">https://blog.csdn.net/Principal_Z&#x2F;article&#x2F;details&#x2F;130857852</a><br>        <a href = "https://blog.csdn.net/weixin_43750300/article/details/127763836">https://blog.csdn.net/weixin_43750300&#x2F;article&#x2F;details&#x2F;127763836</a></p>
+<h2 id="安装git-node-js"><a href="#安装git-node-js" class="headerlink" title="安装git,node.js"></a>安装git,node.js</h2><p>在node.js目录下创建两个文件夹<br>node_cache<br>node_global<br>在cmd中输入：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm config set prefix &quot;你node_global文件夹路径&quot;</span><br><span class="line">npm config set cache &quot;你node_cache文件夹路径&quot;</span><br></pre></td></tr></table></figure>
+<h3 id="编辑环境变量"><a href="#编辑环境变量" class="headerlink" title="编辑环境变量"></a>编辑环境变量</h3><p>将含有npm路径的环境变量更改为自己node_global文件夹路径（如果没有这个变量，请自行添加）<br>添加NODE_PATH系统变量<br>路径为node_global内创建的node_modules文件夹<br>在环境变量PATH中添加：<br>%NODE_PATH%</p>
+<h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install -g hexo_cli</span><br><span class="line">hexo init</span><br></pre></td></tr></table></figure>
+<h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;github用户名&quot;</span><br><span class="line">git config --global user.email &quot;github注册账号用的邮箱&quot;</span><br><span class="line"></span><br><span class="line">ssh-keygen -t rsa #生成ssh公钥</span><br><span class="line">cat ./~ ssh rsa.pub #查找公钥</span><br></pre></td></tr></table></figure>
+
+<h3 id="测试，上传网站"><a href="#测试，上传网站" class="headerlink" title="测试，上传网站"></a>测试，上传网站</h3><figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<p>!注意：小心端口冲突，使用的为localhost:4000</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+<h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p>百度或上网寻找，使用npm指令</p>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
 </search>
