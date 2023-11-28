@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>python语法</title>
-    <url>/2023/11/05/python%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<span id="more"></span>
-<h3 id="python数据类型"><a href="#python数据类型" class="headerlink" title="python数据类型"></a>python数据类型</h3><p>string 字符串<br>int 整数<br>float 浮点数<br>bool 浮点数</p>
-<h3 id="存储结构"><a href="#存储结构" class="headerlink" title="存储结构"></a>存储结构</h3><p>dictionary 字典（键值对用{}表示）<br>list 列表（有序存储，下标读取用[]表示）<br>tuple 元组（类似于列表，<strong>区别在于不可改变</strong>）<br>queue 队列(先进先出)<br>stack 栈（后进后出）</p>
-<h3 id="循环"><a href="#循环" class="headerlink" title="循环"></a>循环</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> :</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b,c):</span><br></pre></td></tr></table></figure>
-<p>a表起始值<br>b表终止值<br>c表递增值<br><em>！注意</em><br>运行次数为 (b - a - 1) &#x2F; c<br><del>未完待续</del></p>
-]]></content>
-      <categories>
-        <category>编程</category>
-      </categories>
-      <tags>
-        <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo+github+git的使用</title>
     <url>/2023/11/07/hexo-github-git%E7%9A%84%E4%BD%BF%E7%94%A8/</url>
     <content><![CDATA[<p>参考文章: <a href="https://blog.csdn.net/Principal_Z/article/details/130857852">https://blog.csdn.net/Principal_Z&#x2F;article&#x2F;details&#x2F;130857852</a><br>        <a href = "https://blog.csdn.net/weixin_43750300/article/details/127763836">https://blog.csdn.net/weixin_43750300&#x2F;article&#x2F;details&#x2F;127763836</a></p>
@@ -39,10 +23,101 @@
       </tags>
   </entry>
   <entry>
+    <title>张梓杨是中科校草（超大声</title>
+    <url>/2023/11/06/%E5%BC%A0%E6%A2%93%E6%9D%A8%E6%98%AF%E4%B8%AD%E7%A7%91%E6%A0%A1%E8%8A%B1%EF%BC%88%E8%B6%85%E5%A4%A7%E5%A3%B0/</url>
+    <content><![CDATA[<h3 id="啥都别说"><a href="#啥都别说" class="headerlink" title="啥都别说"></a>啥都别说</h3><h2 id="我觉得他是他就是"><a href="#我觉得他是他就是" class="headerlink" title="我觉得他是他就是"></a>我觉得他是他就是</h2><h1 id="张梓杨是中科校花！！！！！！！！！！！！"><a href="#张梓杨是中科校花！！！！！！！！！！！！" class="headerlink" title="张梓杨是中科校花！！！！！！！！！！！！"></a>张梓杨是中科校花！！！！！！！！！！！！</h1><h1 id="（溜-）"><a href="#（溜-）" class="headerlink" title="（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）"></a>（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）</h1>]]></content>
+      <categories>
+        <category>池塘</category>
+      </categories>
+      <tags>
+        <tag>公告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>python语法</title>
+    <url>/2023/11/05/python%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<span id="more"></span>
+<h3 id="python数据类型"><a href="#python数据类型" class="headerlink" title="python数据类型"></a>python数据类型</h3><p>string 字符串<br>int 整数<br>float 浮点数<br>bool 浮点数</p>
+<h3 id="存储结构"><a href="#存储结构" class="headerlink" title="存储结构"></a>存储结构</h3><p>dictionary 字典（键值对用{}表示）<br>list 列表（有序存储，下标读取用[]表示）<br>tuple 元组（类似于列表，<strong>区别在于不可改变</strong>）<br>queue 队列(先进先出)<br>stack 栈（后进后出）</p>
+<h3 id="循环"><a href="#循环" class="headerlink" title="循环"></a>循环</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> :</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(a,b,c):</span><br></pre></td></tr></table></figure>
+<p>a表起始值<br>b表终止值<br>c表递增值<br><em>！注意</em><br>运行次数为 (b - a - 1) &#x2F; c<br><del>未完待续</del></p>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>打卡-11-19</title>
+    <url>/2023/11/19/%E6%89%93%E5%8D%A1-11-19/</url>
+    <content><![CDATA[<p>competition n.竞争 exactly adv.确切的<br>automobile n.汽车  vehicle n.交通工具<br>common adj.常见    decline n.减少 v.下降<br>announced v.宣布   Archaeologist n.考古学家<br>        adj.宣布的 skeleton n.骨骼<br>period n.一段时间  restorers n.做修复工作的人<br>     adv.到此为止  miles n.英里<br>     adj.过去的    yet to 尚未</p>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>英语积累</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无聊</title>
+    <url>/2023/11/18/%E6%97%A0%E8%81%8A/</url>
+    <content><![CDATA[<p>念无感<br>落叶自荡风中去，书音缭绕屋室中。<br>何人若知我心愁？恰似碧波水连天。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>积累 11-17</title>
+    <url>/2023/11/17/%E7%A7%AF%E7%B4%AF-11-17/</url>
+    <content><![CDATA[<h2 id="好句"><a href="#好句" class="headerlink" title="好句"></a>好句</h2><p>小时候我们词不达意，长大后我们言不由衷，真正的离别，不是桃花潭水，不是长亭古道，只不过在同样洒满阳光的早上，有的人永远留在了昨天。【适用主题：离别、珍惜】</p>
+<p>月有阴晴圆缺，人有悲欢离合，命有否泰变化，年有四季更替。熬过长夜，你便能见到黎明；饱受痛苦，你便能拥有快乐；耐过寒冬，你便无须蛰伏；落尽寒梅，你便能企盼新春。【适用主题：坚持、希望】</p>
+<p>他在斑驳的光影里来回走动，用他略显枯瘦的手在黑板上擦写，给同学们讲解。阳光透过树叶的缝隙在他身上落下光斑，他的身影淡的就像是珍藏多年的水粉画。【适用主题：怀念、师恩】</p>
+<p>友情是人生一笔受益匪浅的储蓄。这储蓄，是患难中的倾囊相助，是错误道路上的逆耳忠言，是跌倒时一把真诚的搀扶，是痛苦时抹去泪水的一缕清风。【适用主题：友情】</p>
+<p>人生，总有那么大段的时光，你在静默，在等待，在坚忍，在等待一场春暖花开，在待一树春华秋实，你在等从未有过的雷霆万钧。【适用主题：等待、积累】</p>
+<p>少年时候，我们的梦想常被不理解的人嘲笑但是，旁人的不解，我们又何须过分在意呢？只要自己的内心认定了要走的路 ，就更因不畏惧风言风语，全力以赴。是啊，人生只有一次，青春何其短暂，在最好的年华里，自己的梦想才最值得自己去努力</p>
+<h2 id="人物素材"><a href="#人物素材" class="headerlink" title="人物素材"></a>人物素材</h2><p>突如其来的病痛将史铁生的后半生都固定在轮椅上，但他并没有就此缴械投降，而是以笔为剑，用富有哲理的思想攀登文学的高峰，为当代人留下了具备思辨力与生命意识的精神财富，当上帝赐给你荒野时，就意味着，它要你成为高飞的鹰，史铁生便是那只用生命翱翔的鹰，在苍茫的天空中不惧风雨雷电，无畏的展翅飞翔。</p>
+<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p>从国破山河在，到山河秀丽映日月，从天下兴亡，匹夫有责道，少年强则国强，从弱国无外交到引人瞩目的大国风范，百年来，国家逐渐强大，离不开每一代华夏儿女的戮力同心，新时代的号角已经吹响，我们乘着时代的风云，以微毫诠释盛大，且歌且舞而来，国家与民族的未来新篇章也将由我们挥墨续马，铸就新的历史伟业。</p>
+<p>坐拥云起处，心容大江流 从奋斗有我的孤勇 到奋斗忘我的专注，再到追求无我的胸怀，闪烁着奋斗者的智慧，展现了奋斗者的境界。从东京奥运到杭州亚运，中国跳水队诞生了交相辉映的“双子星”全红婵和陈芋汐两人共同拼搏，为中国跳水梦之队续写荣光 吾辈青年当追随榜样，循光而行，汲取奋斗力量，既志存高远又脚踏实地，实现“致广大与尽精微”的辩证统一资以吾辈青年无涯之身，创无限精彩之未来。</p>
+]]></content>
+      <categories>
+        <category>语文</category>
+      </categories>
+      <tags>
+        <tag>积累</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>积累-11-18</title>
+    <url>/2023/11/18/%E7%A7%AF%E7%B4%AF-11-18/</url>
+    <content><![CDATA[<h3 id="青春成长"><a href="#青春成长" class="headerlink" title="青春成长"></a>青春成长</h3><p>于高山之巅，方见大河奔涌。<br>于群峰之上，更觉长风浩荡。</p>
+<p>岁月因青春慷慨以赴而更加静好，<br>世间因少年挺身向前而更加瑰丽。</p>
+<p>追风赶月莫停留，万里长空竞风流。</p>
+<p>1.渔夫出海前，<br>并不知道鱼在哪儿，<br>但还是会选择出海，<br>因为相信会满载而归，<br>很多时候选择了才有机会，<br>相信了才有可能。<br>2.除了生老病死，<br>人生里真正重要的事，<br>其实没有几件。<br>没必要为了小事愁容满面，<br>也没必要去跟小人争个长短。<br>记得对自己好点。<br>3.人是不能太闲的，<br>闲久了，<br>努力一下就以为是拼命。<br>4.我的所有坚持，<br>都是因为热爱，<br>没办法三分钟热度，<br>做不到对自己敷衍。<br>5.常常熬不住的时候，<br>也想找个靠山靠一下，<br>可怎么找都会发现，<br>有的山长满荆棘，<br>有的山全是野兽，<br>所以你应该是自己的那座山。<br>6.当你不能面对自己的时候，<br>你赢不了自己也赢不了对手。<br>7.谁说永夜里照不进天光，<br>你会成为黎明前最闪亮。<br>8.永远热爱自己，<br>永远不被别人定义。<br>希望你一直拥有属于你自己的，<br>独特的色彩，<br>活成自己想要的样子。<br>9.快乐嘛，捡起来就好。<br>10.发光不是太阳的权利，<br>你也可以。</p>
+]]></content>
+      <categories>
+        <category>语文</category>
+      </categories>
+      <tags>
+        <tag>积累</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>倒计时</title>
     <url>/2023/11/04/%E4%BD%A0%E5%A5%BD/</url>
     <content><![CDATA[<p>诶</p>
 ]]></content>
+      <categories>
+        <category>池塘</category>
+      </categories>
+      <tags>
+        <tag>公告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>徐正茹是中科校花（超大声</title>
+    <url>/2023/11/16/%E5%BE%90%E6%AD%A3%E8%8C%B9%E6%98%AF%E4%B8%AD%E7%A7%91%E6%A0%A1%E8%8A%B1/</url>
+    <content><![CDATA[<h3 id="啥都别说"><a href="#啥都别说" class="headerlink" title="啥都别说"></a>啥都别说</h3><h2 id="我觉得她是她就是"><a href="#我觉得她是她就是" class="headerlink" title="我觉得她是她就是"></a>我觉得她是她就是</h2><h1 id="徐正茹是中科校花！！！！！！！！！！！！"><a href="#徐正茹是中科校花！！！！！！！！！！！！" class="headerlink" title="徐正茹是中科校花！！！！！！！！！！！！"></a>徐正茹是中科校花！！！！！！！！！！！！</h1><h1 id="（溜-）"><a href="#（溜-）" class="headerlink" title="（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）"></a>（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）</h1>]]></content>
       <categories>
         <category>池塘</category>
       </categories>
@@ -74,81 +149,6 @@
       </categories>
       <tags>
         <tag>c++算法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>张梓杨是中科校草（超大声</title>
-    <url>/2023/11/06/%E5%BC%A0%E6%A2%93%E6%9D%A8%E6%98%AF%E4%B8%AD%E7%A7%91%E6%A0%A1%E8%8A%B1%EF%BC%88%E8%B6%85%E5%A4%A7%E5%A3%B0/</url>
-    <content><![CDATA[<h3 id="啥都别说"><a href="#啥都别说" class="headerlink" title="啥都别说"></a>啥都别说</h3><h2 id="我觉得他是他就是"><a href="#我觉得他是他就是" class="headerlink" title="我觉得他是他就是"></a>我觉得他是他就是</h2><h1 id="张梓杨是中科校花！！！！！！！！！！！！"><a href="#张梓杨是中科校花！！！！！！！！！！！！" class="headerlink" title="张梓杨是中科校花！！！！！！！！！！！！"></a>张梓杨是中科校花！！！！！！！！！！！！</h1><h1 id="（溜-）"><a href="#（溜-）" class="headerlink" title="（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）"></a>（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）</h1>]]></content>
-      <categories>
-        <category>池塘</category>
-      </categories>
-      <tags>
-        <tag>公告</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>徐正茹是中科校花（超大声</title>
-    <url>/2023/11/16/%E5%BE%90%E6%AD%A3%E8%8C%B9%E6%98%AF%E4%B8%AD%E7%A7%91%E6%A0%A1%E8%8A%B1/</url>
-    <content><![CDATA[<h3 id="啥都别说"><a href="#啥都别说" class="headerlink" title="啥都别说"></a>啥都别说</h3><h2 id="我觉得她是她就是"><a href="#我觉得她是她就是" class="headerlink" title="我觉得她是她就是"></a>我觉得她是她就是</h2><h1 id="徐正茹是中科校花！！！！！！！！！！！！"><a href="#徐正茹是中科校花！！！！！！！！！！！！" class="headerlink" title="徐正茹是中科校花！！！！！！！！！！！！"></a>徐正茹是中科校花！！！！！！！！！！！！</h1><h1 id="（溜-）"><a href="#（溜-）" class="headerlink" title="（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）"></a>（溜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~）</h1>]]></content>
-      <categories>
-        <category>池塘</category>
-      </categories>
-      <tags>
-        <tag>公告</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>积累 11-17</title>
-    <url>/2023/11/17/%E7%A7%AF%E7%B4%AF-11-17/</url>
-    <content><![CDATA[<h2 id="好句"><a href="#好句" class="headerlink" title="好句"></a>好句</h2><p>小时候我们词不达意，长大后我们言不由衷，真正的离别，不是桃花潭水，不是长亭古道，只不过在同样洒满阳光的早上，有的人永远留在了昨天。【适用主题：离别、珍惜】</p>
-<p>月有阴晴圆缺，人有悲欢离合，命有否泰变化，年有四季更替。熬过长夜，你便能见到黎明；饱受痛苦，你便能拥有快乐；耐过寒冬，你便无须蛰伏；落尽寒梅，你便能企盼新春。【适用主题：坚持、希望】</p>
-<p>他在斑驳的光影里来回走动，用他略显枯瘦的手在黑板上擦写，给同学们讲解。阳光透过树叶的缝隙在他身上落下光斑，他的身影淡的就像是珍藏多年的水粉画。【适用主题：怀念、师恩】</p>
-<p>友情是人生一笔受益匪浅的储蓄。这储蓄，是患难中的倾囊相助，是错误道路上的逆耳忠言，是跌倒时一把真诚的搀扶，是痛苦时抹去泪水的一缕清风。【适用主题：友情】</p>
-<p>人生，总有那么大段的时光，你在静默，在等待，在坚忍，在等待一场春暖花开，在待一树春华秋实，你在等从未有过的雷霆万钧。【适用主题：等待、积累】</p>
-<p>少年时候，我们的梦想常被不理解的人嘲笑但是，旁人的不解，我们又何须过分在意呢？只要自己的内心认定了要走的路 ，就更因不畏惧风言风语，全力以赴。是啊，人生只有一次，青春何其短暂，在最好的年华里，自己的梦想才最值得自己去努力</p>
-<h2 id="人物素材"><a href="#人物素材" class="headerlink" title="人物素材"></a>人物素材</h2><p>突如其来的病痛将史铁生的后半生都固定在轮椅上，但他并没有就此缴械投降，而是以笔为剑，用富有哲理的思想攀登文学的高峰，为当代人留下了具备思辨力与生命意识的精神财富，当上帝赐给你荒野时，就意味着，它要你成为高飞的鹰，史铁生便是那只用生命翱翔的鹰，在苍茫的天空中不惧风雨雷电，无畏的展翅飞翔。</p>
-<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p>从国破山河在，到山河秀丽映日月，从天下兴亡，匹夫有责道，少年强则国强，从弱国无外交到引人瞩目的大国风范，百年来，国家逐渐强大，离不开每一代华夏儿女的戮力同心，新时代的号角已经吹响，我们乘着时代的风云，以微毫诠释盛大，且歌且舞而来，国家与民族的未来新篇章也将由我们挥墨续马，铸就新的历史伟业。</p>
-<p>坐拥云起处，心容大江流 从奋斗有我的孤勇 到奋斗忘我的专注，再到追求无我的胸怀，闪烁着奋斗者的智慧，展现了奋斗者的境界。从东京奥运到杭州亚运，中国跳水队诞生了交相辉映的“双子星”全红婵和陈芋汐两人共同拼搏，为中国跳水梦之队续写荣光 吾辈青年当追随榜样，循光而行，汲取奋斗力量，既志存高远又脚踏实地，实现“致广大与尽精微”的辩证统一资以吾辈青年无涯之身，创无限精彩之未来。</p>
-]]></content>
-      <categories>
-        <category>语文</category>
-      </categories>
-      <tags>
-        <tag>积累</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>无聊</title>
-    <url>/2023/11/18/%E6%97%A0%E8%81%8A/</url>
-    <content><![CDATA[<p>念无感<br>落叶自荡风中去，书音缭绕屋室中。<br>何人若知我心愁？恰似碧波水连天。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>积累-11-18</title>
-    <url>/2023/11/18/%E7%A7%AF%E7%B4%AF-11-18/</url>
-    <content><![CDATA[<h3 id="青春成长"><a href="#青春成长" class="headerlink" title="青春成长"></a>青春成长</h3><p>于高山之巅，方见大河奔涌。<br>于群峰之上，更觉长风浩荡。</p>
-<p>岁月因青春慷慨以赴而更加静好，<br>世间因少年挺身向前而更加瑰丽。</p>
-<p>追风赶月莫停留，万里长空竞风流。</p>
-<p>1.渔夫出海前，<br>并不知道鱼在哪儿，<br>但还是会选择出海，<br>因为相信会满载而归，<br>很多时候选择了才有机会，<br>相信了才有可能。<br>2.除了生老病死，<br>人生里真正重要的事，<br>其实没有几件。<br>没必要为了小事愁容满面，<br>也没必要去跟小人争个长短。<br>记得对自己好点。<br>3.人是不能太闲的，<br>闲久了，<br>努力一下就以为是拼命。<br>4.我的所有坚持，<br>都是因为热爱，<br>没办法三分钟热度，<br>做不到对自己敷衍。<br>5.常常熬不住的时候，<br>也想找个靠山靠一下，<br>可怎么找都会发现，<br>有的山长满荆棘，<br>有的山全是野兽，<br>所以你应该是自己的那座山。<br>6.当你不能面对自己的时候，<br>你赢不了自己也赢不了对手。<br>7.谁说永夜里照不进天光，<br>你会成为黎明前最闪亮。<br>8.永远热爱自己，<br>永远不被别人定义。<br>希望你一直拥有属于你自己的，<br>独特的色彩，<br>活成自己想要的样子。<br>9.快乐嘛，捡起来就好。<br>10.发光不是太阳的权利，<br>你也可以。</p>
-]]></content>
-      <categories>
-        <category>语文</category>
-      </categories>
-      <tags>
-        <tag>积累</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>打卡-11-19</title>
-    <url>/2023/11/19/%E6%89%93%E5%8D%A1-11-19/</url>
-    <content><![CDATA[<p>competition n.竞争 exactly adv.确切的<br>automobile n.汽车  vehicle n.交通工具<br>common adj.常见    decline n.减少 v.下降<br>announced v.宣布   Archaeologist n.考古学家<br>        adj.宣布的 skeleton n.骨骼<br>period n.一段时间  restorers n.做修复工作的人<br>     adv.到此为止  miles n.英里<br>     adj.过去的    yet to 尚未</p>
-]]></content>
-      <categories>
-        <category>英语</category>
-      </categories>
-      <tags>
-        <tag>英语积累</tag>
       </tags>
   </entry>
 </search>
